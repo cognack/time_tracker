@@ -1,5 +1,5 @@
 ---
-title: "index"
+title: "Time Tracker - Clockify"
 author: "Steven Cognac"
 date: "11/8/2021"
 output: html_document
