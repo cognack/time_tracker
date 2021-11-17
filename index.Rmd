@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE, echo=FALSE, warning=FALSE)
 ```
 ## Welcome
 
-## Hello
+## Welcome
 
 ```{r}
 # get libraries
